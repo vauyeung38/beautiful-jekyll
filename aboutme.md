@@ -6,7 +6,7 @@ image: /img/Author_cartoon_resized.png
 ---
 
 <p align="left">
-  <img width="220" height="220" style="float: right; border-radius:50%" src="https://raw.githubusercontent.com/vauyeung38/vauyeung38.github.io/master/img/Author_cartoon2.jpg" />Hello! If you’ve come to this corner of the Owl About Omics website looking for the writer of these blogposts, you’ve come to the right place!
+  <img width="220" height="220" style="float: right; border-radius:50%" src="https://raw.githubusercontent.com/vauyeung38/vauyeung38.github.io/master/img/Author_cartoon_lightened.jpg" />Hello! If you’ve come to this corner of the Owl About Omics website looking for the writer of these blogposts, you’ve come to the right place!
 
   My name is Vicky AuYeung, and I’m a PhD graduate at the University of Cambridge. I’m a biologist by training, and over the years I’ve gained firsthand experience and interest in using large biological datasets to study health and disease. Particularly with the rise of advanced technologies and big data, I believe it’s important for all of us to know how such data is collected, analysed, and interpreted to bring about changes in a healthcare setting.
 </p>
