@@ -26,7 +26,8 @@ url: "https://vauyeung38.github.io"
 navbar-links:
   Owl About Omics: "aboutme"
   Hooting Research: "aboutme"
-  PhD Reflections: "reflectionspage"
+  PhD Reflections:
+    - "/_posts/2021-03-05_phd_QnA"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
