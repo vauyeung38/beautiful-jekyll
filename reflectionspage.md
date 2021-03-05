@@ -1,0 +1,6 @@
+---
+layout: page
+title: PhD Reflections
+subtitle: My experience as a PhD student, in context
+---
+
