@@ -27,7 +27,7 @@ navbar-links:
   Owl About Omics: "aboutme"
   Hooting Research: "aboutme"
   PhD Reflections:
-    - Tips for choosing a PhD: "/_posts/2021-03-05_phd_QnA"
+    - Tips for choosing a PhD: "2021-03-05_phd_QnA"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
