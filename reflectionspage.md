@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: PhD Reflections
 subtitle: My experience as a PhD student, in context
 ---
